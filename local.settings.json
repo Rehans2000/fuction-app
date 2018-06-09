@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=rehanfappaa8b;AccountKey=U1gYOjumnthgQJ8HfmPfDoGF3W/00+x5cFTyTEIQ01jERcGVhlclIoIWYqBtlHTdTqlQn3y0hiPQmi9P8YmZJw==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=rehanfappaa8b;AccountKey=U1gYOjumnthgQJ8HfmPfDoGF3W/00+x5cFTyTEIQ01jERcGVhlclIoIWYqBtlHTdTqlQn3y0hiPQmi9P8YmZJw==",
+    "WEBSITE_CONTENTSHARE": "rehan-fappaa8b",
+    "WEBSITE_SITE_NAME": "rehan-fapp",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=rehanfappaa8b;AccountKey=U1gYOjumnthgQJ8HfmPfDoGF3W/00+x5cFTyTEIQ01jERcGVhlclIoIWYqBtlHTdTqlQn3y0hiPQmi9P8YmZJw=="
+  }
+}
